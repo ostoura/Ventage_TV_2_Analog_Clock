@@ -1,4 +1,4 @@
-# Ventage_TV_2_Analog_Clock
+# Ventage_TV_Analog_Clock
 This Project I try to add new life for an old 5.5 inch B/W TV by turning it into a Desktop Analog And Digital Clock
 
 Initial proof-of-concept achieved via an 8-bit R-2R Resistor Ladder on an IEEE 1284 Parallel Port. By calculating the voltage offsets for Sync (0V), Black (0.3V), and White (0.7V-1.0V) within the hardware's 3.3V logic constraints, I successfully generated a composite signal for CRT display. This logic is now being ported to RISC-V (ESP32) for high-resolution deployment.
