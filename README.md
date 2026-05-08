@@ -9,8 +9,8 @@ i realize i need a resistor ladder to get 2 exact voltages 0.3 for black and 0.7
 anyway here is the results so far For A 40 x304 Pixels 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=hc7ue-cmpGg">
-    <img src="https://i.ytimg.com/vi/hc7ue-cmpGg/maxresdefault.jpg" alt="Analog Clock On TV" width="600">
+  <a href="https://www.youtube.com/watch?v=NK5V5Bh_uik">
+    <img src="https://i.ytimg.com/vi/NK5V5Bh_uik/maxresdefault.jpg" alt="Analog Clock On TV" width="600">
     <p><b>🎥 Watch the Demonstration</b></p>
   </a>
 </div>
